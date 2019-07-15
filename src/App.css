@@ -50,6 +50,7 @@
   text-transform: uppercase;
   font-size: 3rem;
   padding: 2rem;
+  margin-left: 2.5rem;
 }
 
 .home__score,
@@ -104,6 +105,7 @@
   border-radius: 4px;
   padding: 1.6rem;
   border: 1px solid white;
+  margin-left: 4rem;
 }
 
 .buttons {
@@ -119,4 +121,18 @@
 .awayButtons__fieldGoal {
   margin: 1rem;
   border-radius: 4px;
+}
+
+.timerbutton {
+  width: 50%;
+  height: 5rem;
+  border-radius: 5px;
+  margin-left: 14rem;
+  margin-top: 2rem;
+  background-color: white;
+  color: black;
+}
+.timerbutton:hover {
+  background-color: black;
+  color: white;
 }
